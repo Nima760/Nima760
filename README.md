@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nima
+- 👀 I’m interested in Android development as well as Game development
+- 🌱 I’m currently learning Android development with Kotlin
+- 💞️ I’m looking to collaborate on some android projects
+- 📫 You can text me on discord,This is my id = Nima760#5638
