@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Nima
-- 👀 I’m an Android and Game developer
+- 👀 I work on developing games and apps
